@@ -1,9 +1,3 @@
-Olá!
-
-Sou estudante de **Engenharia de Software** e estou em processo de aprendizado na área de programação e desenvolvimento de sistemas.
-
----
-
 ## 🚀 Sobre mim
 
 - 🎓 Cursando Engenharia de Software  
