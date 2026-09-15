@@ -1,16 +1,29 @@
-## Hi there 👋
+Olá!
 
-<!--
-**EllenRabeloo/EllenRabeloo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de **Engenharia de Software** e estou em processo de aprendizado na área de programação e desenvolvimento de sistemas.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##🚀 Sobre mim
+
+- 🎓 Cursando Engenharia de Software  
+- 💻 Estudando **Java** atualmente (principal foco)  
+- 🐍 Tenho noções básicas de **Python**  
+- 📚 Aprendendo lógica de programação, algoritmos e estruturas de controle
+  
+---
+
+## 📌 Tecnologias que estou estudando
+
+- Java ☕  
+- Python 🐍 (básico)  
+- Lógica de Programação  
+- Algoritmos  
+- Portugol / Visualg  
+
+---
+
+## 🎯 Objetivo
+
+Desenvolver minhas habilidades como programadora e futuramente atuar na área de desenvolvimento de software, com foco em back-end e soluções eficientes.
+
