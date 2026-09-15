@@ -4,7 +4,7 @@ Sou estudante de **Engenharia de Software** e estou em processo de aprendizado n
 
 ---
 
-##🚀 Sobre mim
+## 🚀 Sobre mim
 
 - 🎓 Cursando Engenharia de Software  
 - 💻 Estudando **Java** atualmente (principal foco)  
