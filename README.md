@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="100%">
+</p>
 ## 🚀 Sobre mim
 
 - 🎓 Cursando Engenharia de Software  
