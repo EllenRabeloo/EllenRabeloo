@@ -17,7 +17,7 @@
 - Python 🐍 (básico)  
 - Lógica de Programação  
 - Algoritmos  
-- Portugol / Visualg  
+- Portugol  
 
 ---
 
